@@ -1,0 +1,5 @@
+curl -v -k -u admin@poste.io:admin -d 'name=rodrigo&email=rodrigo@rodrigo.edu&passwordPlaintext=MNAt6Ssd' https://demo.poste.io/admin/api/v1/boxescurl -v -k -u admin@elmeuprimerdomini.org:noposesaquestapassword -d 'name=unaltredominiqualsevol.edu' https://demo.poste.io/admin/api/v1/domains
+
+curl -v -k -u admin@poste.io:admin -d 'name=rodrigo.edu' https://demo.poste.io/admin/api/v1/domains
+
+curl -v -k -u admin@poste.io:admin -d 'name=rodrigo&email=rodrigo@rodrigo.edu&passwordPlaintext=MNAt6Ssd' https://demo.poste.io/admin/api/v1/boxes
